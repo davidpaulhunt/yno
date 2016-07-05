@@ -1,0 +1,20 @@
+{
+  "name": "yno",
+  "version": "0.0.1",
+  "description": "What seems to be the most common utility methods ala lodash or underscore.",
+  "main": "yno.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "util",
+    "modules",
+    "stdlib"
+  ],
+  "author": "David Hunt <davidpaulhunt@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^9.0.2",
+    "vows": "^0.8.1"
+  }
+}
